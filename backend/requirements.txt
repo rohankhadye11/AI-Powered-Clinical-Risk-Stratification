@@ -1,0 +1,11 @@
+pandas
+python-dotenv
+pathlib
+numpy
+scipy
+scikit-fuzzy
+scikit-learn
+joblib
+fastapi
+uvicorn
+pydantic
